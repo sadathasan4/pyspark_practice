@@ -1,0 +1,11 @@
+student_id,name,grade,subject,score
+1,John,10th,Math,85.5
+2,Jane,11th,English,78.0
+3,Bob,10th,Science,92.3
+4,Alice,12th,History,89.7
+5,Charlie,11th,Math,76.8
+6,Emma,10th,English,94.2
+7,Dave,12th,Science,87.1
+8,Sarah,11th,History,81.5
+9,Michael,10th,Math,90.0
+10,Olivia,12th,English,88.4
